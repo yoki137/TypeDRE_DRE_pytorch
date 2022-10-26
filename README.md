@@ -1,4 +1,4 @@
-[TOC]
+
 # TypeDRE: A Novel Type-aware Framework for Dialogue-based Relation Extraction
 
 ## Overview
